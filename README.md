@@ -1,1 +1,1 @@
-# Modal-js
+This is modal that was created using javascript
