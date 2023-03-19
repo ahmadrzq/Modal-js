@@ -10,4 +10,4 @@ btn.addEventListener('click', function(){
 closeButton.addEventListener('click', ()=>{
     console.log("Button clicked");
     modal.style.display = "none";
-})
+});
